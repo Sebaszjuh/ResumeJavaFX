@@ -8,7 +8,6 @@ import View.View;
 
 /**
  * @auth Sebastiaan van de Griendt
- * Applicatie Capgemini CV sollicitatie
  */
 public class Main extends Application {
 
